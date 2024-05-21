@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chaquo_gradle</string>
+    <string name="title_activity_get_text">activity_getText</string>
+</resources>
